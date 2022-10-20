@@ -25,7 +25,7 @@ We want to offer quality tutorials that prove to be really useful and interestin
   - Goals, (what people will be able to achieve)
   - Prerequisites, (what people need to achieve the tutorial)
     - Specify the version of Strapi (alpha, beta)  
-  - Step 1 - First thing to to
+  - Step 1 - First thing to do
   - Step 2 - Second thing...
   - Step n - Last thing to do
   - Include code source (github)
